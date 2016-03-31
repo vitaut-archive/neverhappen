@@ -10,5 +10,5 @@ Features
 --------
 
 * Never happens
-* Can be run from command-line `neverhappen.py` with things that never happen not happening
+* ``neverhappen.py`` can be run from command-line with things that never happen not happening
 * 100% test coverage including the part that never happens
